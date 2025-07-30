@@ -49,4 +49,12 @@ To run this project, you will need Python and the libraries listed in the `requi
     The main analysis, including data preprocessing, model training, and evaluation, is contained in the `final (1).ipynb` Jupyter Notebook.
 
 ## File Structure
+├── data.csv                 
+├── data science.ipynb         
+├── Document.pdf
+├── requirements.txt        
+└── README.md                
 
+## Conclusion
+
+This project successfully developed a predictive model to determine patient outcomes in AIDS clinical trials, with the Random Forest model achieving an accuracy of 89%. The findings can assist HopeAlive Medical Hospital in making data-driven decisions for selecting the most effective treatment regimens for their patients.
