@@ -51,7 +51,7 @@ To run this project, you will need Python and the libraries listed in the `requi
 ## File Structure
 ├── data.csv                 
 ├── data science.ipynb         
-├── Document.pdf
+├── Document.pdf  
 ├── requirements.txt        
 └── README.md                
 
