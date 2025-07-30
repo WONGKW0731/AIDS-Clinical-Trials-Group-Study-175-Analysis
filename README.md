@@ -48,8 +48,7 @@ To run this project, you will need Python and the libraries listed in the `requi
 3.  **Run the analysis:**
     The main analysis, including data preprocessing, model training, and evaluation, is contained in the `final (1).ipynb` Jupyter Notebook.
 
-## File Structure
-├── data.csv                 
+## File Structure             
 ├── data science.ipynb         
 ├── Document.pdf  
 ├── requirements.txt        
